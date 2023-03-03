@@ -1,0 +1,5 @@
+# custom obsidian settings to ignore -- to check what other settings are not required
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/workspace

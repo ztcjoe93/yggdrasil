@@ -1,0 +1,1 @@
+Last updated: {{date:YYYY-MM-DD}} {{time:hh:mm}}
