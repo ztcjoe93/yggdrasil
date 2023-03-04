@@ -201,8 +201,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "129e82f8ad9f07e5",
+  "active": "3c19cfea798744c2",
   "lastOpenFiles": [
+    "python/modules.md",
+    "python/functions.md",
+    "python",
     "README.md",
     "linux/vim.md",
     "templates/base_template.md",
