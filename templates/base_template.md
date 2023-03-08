@@ -1,1 +1,1 @@
-Last updated: {{date:YYYY-MM-DD}} {{time:hh:mm}}
+Last updated: {{date:YYYY-MM-DD}} {{time:HH:mm}}

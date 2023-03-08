@@ -18,12 +18,26 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "linux/Kitty terminal.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": false
                   }
                 }
+              },
+              {
+                "id": "1c6e5463e8dc8a33",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "linux/Kitty terminal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "acb76f0eae203f94",
@@ -143,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/Kitty terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/Kitty terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/Kitty terminal.md"
+              }
             }
           }
         ],
@@ -201,19 +219,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c19cfea798744c2",
+  "active": "1c6e5463e8dc8a33",
   "lastOpenFiles": [
+    "templates/base_template.md",
+    "linux/Kitty terminal.md",
     "python/modules.md",
     "python/functions.md",
     "python",
     "README.md",
     "linux/vim.md",
-    "templates/base_template.md",
     "linux/commands.md",
     "linux/polybar.md",
     "linux/_linux.md",
     "linux/ok-dokes.md",
-    "linux/Untitled.md",
     "Untitled.md",
     "linux/test.md",
     "templates",
